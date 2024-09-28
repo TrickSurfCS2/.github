@@ -17,7 +17,7 @@ You can find implementation pieces of some functionality in separate repositorie
 
 Web Client that allows you to display and search tricks for specific maps
 
-- [`trick-surf-front`](https://github.com/TrickSurfCS2/trick-surf-front)
+- [`trick-surf-front`](https://github.com/TrickSurfCS2/trick-surf-client)
 
 ## Backend
 
